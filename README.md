@@ -1,1 +1,1 @@
-# School-Supply-LIst
+# School-Supply-List
